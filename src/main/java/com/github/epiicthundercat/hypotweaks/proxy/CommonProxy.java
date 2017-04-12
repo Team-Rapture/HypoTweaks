@@ -1,6 +1,7 @@
 package com.github.epiicthundercat.hypotweaks.proxy;
 
 import com.github.epiicthundercat.hypotweaks.init.HTItems;
+import com.github.epiicthundercat.hypotweaks.init.HTRecipes;
 
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
@@ -20,7 +21,7 @@ public class CommonProxy {
 
 	private void register(FMLPreInitializationEvent preEvent) {
 		HTItems.register(preEvent);
-		//TMRecipes.register(preEvent);
+		HTRecipes.register(preEvent);
 		
 		//NGBlocks.register(preEvent);
 	//	MinecraftForge.EVENT_BUS.register(new MobDrops());

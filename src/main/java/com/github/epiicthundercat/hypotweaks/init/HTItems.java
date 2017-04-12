@@ -26,12 +26,20 @@ public class HTItems {
 	public static Item nickel_ore_piece = new HTItem("nickel_ore_piece");
 	public static Item aluminum_ore_piece = new HTItem("aluminum_ore_piece");
 	public static Item iridium_ore_piece = new HTItem("iridium_ore_piece");
+	public static Item dirty_certus_quartz_piece = new HTItem("dirty_certus_quartz_piece");
+	
 	public static Item platinum_ore_chunk = new HTItem("platinum_ore_chunk");
 	public static Item nickel_ore_chunk = new HTItem("nickel_ore_chunk");
 	public static Item aluminum_ore_chunk = new HTItem("aluminum_ore_chunk");
 	public static Item iridium_ore_chunk = new HTItem("iridium_ore_chunk");
+	public static Item dirty_certus_quartz_chunk = new HTItem("dirty_certus_quartz_chunk");
 	
+	public static Item dirty_charged_certus_quartz_chunk = new HTItem("dirty_charged_certus_quartz_chunk");
 	
+	//public static Item aluminum_ingot = new HTItem("aluminum_ingot");
+	//public static Item iridium_ingot = new HTItem("iridium_ingot");
+	//public static Item platinum_ingot = new HTItem("platinum_ingot");
+	//public static Item nickel_ingot = new HTItem("nickel_ingot");
 	
 	
 	
