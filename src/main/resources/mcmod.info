@@ -1,0 +1,16 @@
+[
+{
+  "modid": "hypotweaks",
+  "name": "HypoTweaks",
+  "description": "Tweaks and addons made for Hypothermia",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Epiic_Thundercat", "Team Rapture"],
+  "credits": "Epiic",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
