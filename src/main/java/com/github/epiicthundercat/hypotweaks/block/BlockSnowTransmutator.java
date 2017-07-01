@@ -12,8 +12,8 @@ import net.minecraft.util.math.BlockPos;
 import net.minecraft.world.EnumSkyBlock;
 import net.minecraft.world.World;
 
-public class BlockSnowTransmutator extends HTBlock {
-
+public class BlockSnowTransmutator{// extends HTBlock {
+/*
 	public BlockSnowTransmutator(String name, Material material) {
 		super(name, material);
 		// TODO Auto-generated constructor stub
@@ -54,5 +54,5 @@ public class BlockSnowTransmutator extends HTBlock {
 	    public void onBlockPlacedBy(World world, BlockPos pos, IBlockState state, EntityLivingBase placer, ItemStack stack) {
 			state = Blocks.FLOWING_WATER.getDefaultState();
 	        checkForSurroundingPillar(world, pos, state);
-	    }
+	    }*/
 }
